@@ -19,3 +19,6 @@ print(g + 92)
 h = (g + 92)
 print(h)
 print("That " + "will " + "be " + str(h) + " euros")
+print(222 + 4020302300203020302 * (10 + 20 - 7))
+
+print("What will the next " + str(100) + ' exercised be?')
