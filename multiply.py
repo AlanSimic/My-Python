@@ -1,6 +1,24 @@
-a = int(input("Insert a number here : "))
-b = int(input("Insert a second number here : "))
-c = int(input("Insert a third number here : "))
+a = float(input("Insert a number here : "))
+b = float(input("Insert a second number here : "))
 
-print(a * b * c)
+print(a * b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
