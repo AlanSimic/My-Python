@@ -27,3 +27,11 @@ Same as the one step calculator, but then repeated.
 3. Ask the user to input the second number.
 4. Perform the calculation and show the result.
 5. Go to step 1 again.
+
+### Rock-paper-scissors
+
+Play rock-paper-scissors against the computer.
+
+- Ask the user to input rock, paper, or scissors.
+- Let the computer draw rock, paper, or scissors at random.
+- Check who won, and show the result.
